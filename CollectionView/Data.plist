@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>icon_animal</string>
+	<string>icon_character</string>
+	<string>icon_fashion</string>
+	<string>icon_food</string>
+	<string>icon_interest</string>
+	<string>icon_plant</string>
+	<string>icon_scene</string>
+	<string>icon_special day</string>
+</array>
+</plist>
